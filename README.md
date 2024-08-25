@@ -2,7 +2,7 @@
 
 Welcome to my GitHub Profile Decoration repository! This repository contains the code and resources used to customize and enhance the appearance of my GitHub profile.
 
-## 🧑🏻‍💻 About
+## Description
 
 This repository includes a variety of elements such as:
 
@@ -17,13 +17,14 @@ This repository includes a variety of elements such as:
    git clone https://github.com/i4GS/GithubProfileDecoration.git
 
 2. **Customize Your README**:
-  - Open the **README.md** file in the root directory
+  - Open the **code.md** file in the root directory
   - Edit the content to include your personal information, skills, and contributions
   - Use the Markdown code provided in this repository to customize your profile
+  - Change the name **code.md** to **README.md** or copy paste the code inside **code.md**
 
 3. **Create a GitHub Repository**:
-  - Create a new repository on GitHub with the exact name as your GitHub username (e.g. i4GS)
-  - Push your customized README.md to this repository
+  - Create a new repository on GitHub with the exact name as your GitHub username (e.g. i4GS/i4GS)
+  - Push your customized README.md to your repository
 
 4. **Update Your Profile**:
   - Visit your GitHub profile
